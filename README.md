@@ -18,3 +18,11 @@ The final python doc consists of all the definitions that we use to webscrap and
 the first part consists on the selection of dates, type of flight, number of passengers, origin and destination, it works with both one way ticket or round-trip flight and the search of flights. the second part is the data webscrap of the flights found by the web-page, data like hours of flight, stopover times, where are the stopovers, etc.
 
 ** A little reminder that this webpage changes, hence the XPATHS will change on the future, same happens with the UI design of the webpage. TBH it even happened to me during the development of this project.
+
+### Tools used in this project:
+Selenium
+
+### DOCS:
+This repository has 3 docs, one containing the whole process to build it, another one with the first couple of definitions and a trial and the third one has only the defs and explanations on how they work.
+
+Este repositorio consiste de 3 docs, uno contiene el proceso completo para construirlo, otro las primeras definiciones y sus ensayos y el tercero solamente las defs y explciaciones de como estos trabajan.
